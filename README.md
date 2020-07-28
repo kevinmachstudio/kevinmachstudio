@@ -9,8 +9,8 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Go, Python
-- 🏗 &nbsp; Docker | AWS
+- 💻 &nbsp; Go | Python | Bash
+- 🏗 &nbsp; Docker | AWS | Azure | K8S
 - 🌐 &nbsp; HTML | CSS | JavaScript | ReactJS | NextJS
 - 🛢 &nbsp; PostgresQL | MongoDB | Elasticsearch
 - 🔧 &nbsp; Git | Markdown
