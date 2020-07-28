@@ -22,6 +22,6 @@
 
 <h3> 🤝🏻 Connect with Me </h3>
 
-<a href="http://kevinmachstudio.github.io/"><img alt="Website" src="https://img.shields.io/badge/Website-http://kevinmachstudio.github.io/-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://kevinmachstudio.github.io/"><img alt="Website" src="https://img.shields.io/badge/Website-https://kevinmachstudio.github.io/-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/kevinjmach"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Kevin%20Mach-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:kevin.mach88@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-kevin.mach88@gmail.com-blue?style=flat-square&logo=gmail"></a>
