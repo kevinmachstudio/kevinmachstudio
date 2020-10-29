@@ -6,6 +6,7 @@
 - 🎓 &nbsp; Studied Computer Engineering at UC San Diego, graduated 2018
 - 💼 &nbsp; Software Engineer at Adobe
 - 🌱 &nbsp; Interested in blockchain technology and big data
+- 📄 &nbsp; [Current Resume](https://www.dropbox.com/s/mgby0lhfxpc2flu/Kevin%20Mach%20Software%20Engineer%20Resume.pdf?dl=0)
 
 <h3>🛠 Tech Stack</h3>
 
